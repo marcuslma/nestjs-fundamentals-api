@@ -47,7 +47,7 @@
   "terminal.integrated.fontSize": 16,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "window.title": "${activeEditorMedium}${separator}${rootName}",
-  "workbench.colorTheme": "Origamid Next",
+  "workbench.colorTheme": "Ayu Mirage Bordered",
   "workbench.iconTheme": "eq-material-theme-icons",
   "workbench.startupEditor": "none",
   "workbench.statusBar.visible": true,
